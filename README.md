@@ -34,6 +34,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshubhavsar)](https://github.com/priyanshubhavsar/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=priyanshubhavsar)](https://github.com/anuraghazra/github-readme-stats)
+[![priyanshubhavsar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=priyanshubhavsar)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=priyanshubhavsar&style=flat) <b>From 05/05/2020</b>
