@@ -3,16 +3,12 @@
 <p>Hi, I'm Priyanshu, a passionate self-taught Student Web Developer.</p>
 <!--<a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:100%;"></a>
 -->
-* :grin: **I'm a Student Developer**.
-* :office: **Currently Working On Web Development** </br>
-* 💬  **Ask me about anything** <a href="https://github.com/priyanshubhavsar/priyanshubhavsar/issues">Here<a/>
-  
- 
+- :grin: **I'm a Student Developer**.
+- :office: **Currently Working On Web Developoment** </br>
+- 💬  **Ask me about anything** <a href="https://github.com/priyanshubhavsar/priyanshubhavsar/issues">Here<a/>
 - :email: **Write me on** : bhavsarpriyanshu@gmail.com
 
-
 - 📫 **How to reach me**:
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/priyanshu-bhavsar-6a86371b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ipriiyanshu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
