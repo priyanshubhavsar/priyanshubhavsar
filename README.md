@@ -4,8 +4,7 @@
 <!--<a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:100%;"></a>
 -->
 * :grin: **I'm a Student Developer**.
-* :office: **Currently Working On Web Develooment** </br>
-   
+* :office: **Currently Working On Web Development** </br>
 * 💬  **Ask me about anything** <a href="https://github.com/priyanshubhavsar/priyanshubhavsar/issues">Here<a/>
   
  
