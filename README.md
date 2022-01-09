@@ -21,11 +21,11 @@
 * :1st_place_medal: **Skills**
     1. Operating System - Windows.
 
-    2. Programming Languages - C, C++.
+    2. Programming Languages - C, C++,JAVA.
 
-    3. Web/Mobile App Dev - HTML5, CSS, Bootstrap, SQL.
+    3. Web/Mobile App Dev - HTML5, CSS, Bootstrap, SQL, PHP.
    
-    4. Softwares– Photoshop.
+    4. Softwares– Photoshop,Canva.
 
 
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
