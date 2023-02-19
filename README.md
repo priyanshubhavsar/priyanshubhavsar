@@ -21,9 +21,9 @@
 * :1st_place_medal: **Skills**
     1. Operating System - Windows.
 
-    2. Programming Languages - C, C++,JAVA.
+    2. Programming Languages - C, C++, Java.
 
-    3. Web/Mobile App Dev - HTML5, CSS, Bootstrap, SQL, PHP.
+    3. Web/Mobile App Dev - HTML, CSS, Bootstrap, SQL, PHP.
    
     4. Softwares– Photoshop,Canva.
 
